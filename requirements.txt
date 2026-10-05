@@ -1,0 +1,12 @@
+# Versions used for the experiments in the paper.
+# PyTorch was run with CUDA 12.6 (torch 2.13.0+cu126). For a GPU build, install
+# torch first following https://pytorch.org/get-started/locally/, then:
+#   pip install -r requirements.txt
+torch==2.13.0
+transformers==5.13.1
+tokenizers==0.22.2
+datasets==5.0.0
+numpy==2.4.4
+scipy==1.18.0
+matplotlib==3.11.0
+tqdm==4.68.4
