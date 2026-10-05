@@ -17,8 +17,8 @@ The study is small: two tasks, one architecture, no pretrained models. See the p
 ## Setup
 
 ```bash
-git clone <this repo>
-cd <this repo>
+git clone https://github.com/subcortical7/IT-MHA.git
+cd IT-MHA
 pip install -r requirements.txt
 ```
 
