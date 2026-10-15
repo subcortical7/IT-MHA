@@ -2,7 +2,7 @@
 
 Code and results for the paper **"Choosing the Number of Attention Heads from Intrinsic Dimension: A Small-Scale Study"** by Arjun Boya, Charan Sai Bandaru, Masthanaiah Pillimetla and Kavana Chidanandappa.
 
-Paper: *arXiv link coming soon*
+Paper: [arXiv:2610.19966](https://arxiv.org/abs/2610.19966)
 
 ## What this is
 
@@ -83,7 +83,7 @@ Recorded training time was about 5.2 GPU-hours in total (SST-2 2.55 h, MRPC 0.24
 @article{boya2026heads,
   title   = {Choosing the Number of Attention Heads from Intrinsic Dimension: A Small-Scale Study},
   author  = {Boya, Arjun and Bandaru, Charan Sai and Pillimetla, Masthanaiah and Chidanandappa, Kavana},
-  journal = {arXiv preprint},
+  journal = {arXiv preprint arXiv:2610.19966},
   year    = {2026}
 }
 ```
